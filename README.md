@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-No momento quebrando a cabeça pro básico...
+...No momento quebrando a cabeça pro básico...
 
 <!--
 

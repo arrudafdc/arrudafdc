@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Agora sem senha...
+Testando pelo zsh!
 
 <!--
 

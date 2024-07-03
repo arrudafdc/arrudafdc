@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**arrudafdc/arrudafdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋🏽‍♂️ About me
 
-Here are some ideas to get you started:
+- 🖥️ Desenvolvedor Fullstack
+- 🔭 Trabalho atualmente com
+  <ul>
+    <li>Javascript / Typescript</li>
+    <li>React</li>
+    <li>NodeJS</li>
+    <li>Java / Spring</li>
+    <li>SQL</li>
+  </ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contato
+- 📩 [Email](mailto:arrudafdc@gmail.com)
+- 💼 [Linkedin](https://www.linkedin.com/in/lucas-arruda-496461292)

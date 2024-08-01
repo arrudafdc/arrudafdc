@@ -8,8 +8,6 @@
     <li>Javascript / Typescript</li>
     <li>React</li>
     <li>NodeJS</li>
-    <li>Java / Spring</li>
-    <li>SQL</li>
   </ul>
 
 📫 Contato
